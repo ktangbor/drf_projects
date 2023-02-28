@@ -1,5 +1,5 @@
 To run the project, you can pull the image from konnta/drf_api (main image) 
-and the optional konnta/drf_app (image to be able to make calls with httpi 
+and the optional konnta/drf_app (image to be able to make calls with httpie 
 for ease of use).
 Alternatively, execute "docker-compose up -d --build" 
 in GV_RDF/backend. You must have docker installed.
