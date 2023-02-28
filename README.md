@@ -1,3 +1,6 @@
+To run the project, plese execute "docker-compose up -d --build" 
+in GV_RDF/backend. You must have docker installed.
+
 As proper documentation takes too much time for an assesment test, 
 please refer to the GV_RDF/backend/gv_rdf/urls.py for the endpoints 
 that have been created and how to call them (with Postman).
